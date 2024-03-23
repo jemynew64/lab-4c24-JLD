@@ -9,3 +9,7 @@ Todos los paises
 -alemania
 
 -brasil
+
+-paraguai
+
+-venezuela
